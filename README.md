@@ -8,7 +8,7 @@ This is a paired project from Turing's Mod 1 Front End program.  It demonstrates
 
 To view our project in action, please visit: https://king13k.github.io/hang-in-there-boilerplate/
 
-### ** OR **
+### **OR**
 
 1. Fork and clone this repo.
 2. In your terminal, navigate to your freshly pulled repo.
