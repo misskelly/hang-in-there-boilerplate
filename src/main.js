@@ -207,3 +207,5 @@ function deletePoster() {
   };
   displayMiniPosters();
 };
+
+// for code review by @misskelly
