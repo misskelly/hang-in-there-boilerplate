@@ -13,6 +13,11 @@ Our project can:
 
 To view our project in action, please visit: https://king13k.github.io/hang-in-there-boilerplate/
 
+Features to be added!!!
++ Implement data validation and error handling into the form (disable button, provide error messages if data entered is not correct, etc)
++ When a user single clicks a saved poster, create a modal to view it larger
++ Allow users to drag and drop saved posters into whatever order they want them to appear
+
 ### **OR**
 
 1. Fork and clone this repo.
